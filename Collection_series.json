@@ -1,0 +1,135 @@
+[
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/color\/netflixdark-wide-color.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/ec27c43b-affa-4124-820c-db3d06b1d714\/manifest.json",
+        "catalogId" : "series::custom.community_french_stream_public.series.fs_series_netflix",
+        "catalogType" : "series"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/ec27c43b-affa-4124-820c-db3d06b1d714\/manifest.json",
+          "catalogId" : "series::custom.community_french_stream_public.series.fs_series_netflix",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "BE6D4EB8-3038-4F47-9946-FC317FEA91CB",
+    "layout" : "Wide",
+    "name" : "Netflix"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/color\/primevideo-wide-color.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/ec27c43b-affa-4124-820c-db3d06b1d714\/manifest.json",
+        "catalogId" : "series::custom.community_french_stream_public.series.fs_series_prime",
+        "catalogType" : "series"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/ec27c43b-affa-4124-820c-db3d06b1d714\/manifest.json",
+          "catalogId" : "series::custom.community_french_stream_public.series.fs_series_prime",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "ABC3DEFD-C274-42B4-BC74-81D6E643BAB1",
+    "layout" : "Wide",
+    "name" : "PrimeVideo"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/color\/disney-wide-color.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/ec27c43b-affa-4124-820c-db3d06b1d714\/manifest.json",
+        "catalogId" : "series::custom.community_french_stream_public.series.fs_series_disneyplus",
+        "catalogType" : "series"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/ec27c43b-affa-4124-820c-db3d06b1d714\/manifest.json",
+          "catalogId" : "series::custom.community_french_stream_public.series.fs_series_disneyplus",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "34D4CD8B-24D0-46F1-AA13-A5FA113D68DD",
+    "layout" : "Wide",
+    "name" : "Disney"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/color\/appletv-wide-color.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/ec27c43b-affa-4124-820c-db3d06b1d714\/manifest.json",
+        "catalogId" : "series::custom.community_french_stream_public.series.fs_series_appletv",
+        "catalogType" : "series"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/ec27c43b-affa-4124-820c-db3d06b1d714\/manifest.json",
+          "catalogId" : "series::custom.community_french_stream_public.series.fs_series_appletv",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "CBEA2A59-3CA4-4E2F-9549-5C2CBE641D31",
+    "layout" : "Wide",
+    "name" : "AppleTV"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/color\/kdramaplus-wide-color.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/addon-stremio-fs-public.stremio-fs-public.workers.dev\/eyJ0IjoiNmQ1ZWFhY2I2NDhiZTYwNjhiOTkxYWYyMzAxN2VjYTEiLCJyIjpmYWxzZSwiYyI6WyJkZXJuaWVycy1maWxtcyIsImZpbG1zLWFjdGlvbiIsImRlcm5pZXJlcy1zZXJpZXMiLCJzZXJpZXMtbmV0ZmxpeCIsInNlcmllcy1hcHBsZXR2Iiwic2VyaWVzLXByaW1lIiwic2VyaWVzLWRpc25leXBsdXMiLCJzZXJpZXMtay1kcmFtYSJdLCJ2IjpmYWxzZX0\/manifest.json",
+        "catalogId" : "series::fs-series-k-drama",
+        "catalogType" : "series"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/addon-stremio-fs-public.stremio-fs-public.workers.dev\/eyJ0IjoiNmQ1ZWFhY2I2NDhiZTYwNjhiOTkxYWYyMzAxN2VjYTEiLCJyIjpmYWxzZSwiYyI6WyJkZXJuaWVycy1maWxtcyIsImZpbG1zLWFjdGlvbiIsImRlcm5pZXJlcy1zZXJpZXMiLCJzZXJpZXMtbmV0ZmxpeCIsInNlcmllcy1hcHBsZXR2Iiwic2VyaWVzLXByaW1lIiwic2VyaWVzLWRpc25leXBsdXMiLCJzZXJpZXMtay1kcmFtYSJdLCJ2IjpmYWxzZX0\/manifest.json",
+          "catalogId" : "series::fs-series-k-drama",
+          "catalogType" : "series"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/addon-stremio-fs-public.stremio-fs-public.workers.dev\/eyJ0IjoiNmQ1ZWFhY2I2NDhiZTYwNjhiOTkxYWYyMzAxN2VjYTEiLCJyIjpmYWxzZSwiYyI6WyJkZXJuaWVycy1maWxtcyIsImZpbG1zLWFjdGlvbiIsImRlcm5pZXJlcy1hbmltZXMiLCJkZXJuaWVyZXMtc2VyaWVzIiwic2VyaWVzLW5ldGZsaXgiLCJzZXJpZXMtYXBwbGV0diIsInNlcmllcy1wcmltZSIsInNlcmllcy1kaXNuZXlwbHVzIl0sInYiOmZhbHNlfQ\/manifest.json",
+          "catalogId" : "series::fs-series-appletv",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "FB34CC30-BC28-499C-993A-3A8BD9A11334",
+    "layout" : "Wide",
+    "name" : "K-Drama"
+  }
+]
